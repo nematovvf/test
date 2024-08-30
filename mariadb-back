@@ -1,0 +1,1 @@
+mariadb-backup --backup --target-dir mariadb_backup130624/ --user root
